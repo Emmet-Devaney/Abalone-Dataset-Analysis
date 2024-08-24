@@ -18,7 +18,7 @@ We will be focusing on two varibles in the supplied data:
 - The Whole Weight of the Abalone.
 - The Shell Height of the Abalone.
 
-As we progress through the jupyter notebook and display the information, we will see what conclusions an be drawn.
+As we progress through the jupyter notebook and display the information, we will see what conclusions can be drawn.
 
 **The files that this Repository contains:**
 
