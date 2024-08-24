@@ -92,7 +92,7 @@ A good way to visualise this information is through a heatmap:
 # 7. Conclusions
 
 My conclusions based on the data are below:
-*	There is a strong correlation between the Shell Height and the Whole Weight of the Abalone, which can be seen on the heatmap.
+*	There is a strong correlation between the Shell Height and the Whole Weight of the Abalone, which can be seen on the heatmap (r = 0.82).
 *   The relationship between the Whole Weight and the Sex of the Abalone is linear. However, the Shell Height shows a clear difference between the Males and the Females.
 
 
